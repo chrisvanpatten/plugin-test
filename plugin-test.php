@@ -10,4 +10,4 @@
  * License: Private. Do not distribute. Copyright 2019 All Rights Reserved.
  */
 
-echo 'This is a third test';
+echo 'This is a test';
