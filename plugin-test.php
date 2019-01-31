@@ -10,4 +10,4 @@
  * License: Private. Do not distribute. Copyright 2019 All Rights Reserved.
  */
 
-echo 'This is a major release. Wow!';
+echo 'This is a major release. Neat!';
