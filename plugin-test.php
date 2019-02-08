@@ -10,4 +10,4 @@
  * License: Private. Do not distribute. Copyright 2019 All Rights Reserved.
  */
 
-echo 'This is a major release. Neat!';
+echo 'This is a patch release. Only small non-breaking bug fixes.';
